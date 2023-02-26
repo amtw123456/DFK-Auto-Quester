@@ -16,5 +16,3 @@ your_seedphrase = [
 mm_browser_pwd = "Enter a Password here"
 
 your_private_key = "Enter your Private Key here"
-
-something = 'RED'
